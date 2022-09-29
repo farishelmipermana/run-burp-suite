@@ -1,0 +1,1 @@
+java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:loader.jar -noverify -jar Burp-Suite-Pro.jar &
